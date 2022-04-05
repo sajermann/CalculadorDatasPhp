@@ -25,7 +25,3 @@ Banco Dados | Não Aplicado
 - [x] Fora Quinzena
 - [x] Fora Dezena
 
-**Em breve**
-* Cálculo Diferença entre datas
-
-[Demo](http://bruno.sajermann.com/CalculadorDatas/)
